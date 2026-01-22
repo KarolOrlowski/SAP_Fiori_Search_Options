@@ -1,6 +1,7 @@
 # SAP_Fiori_Search_Options
-Various Search Options Using CDS - Fiori 
 
+-Various Search Options Using CDS - Fiori 
+-Criticality for Statuses
 
 
 1. Simple Search
