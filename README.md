@@ -16,6 +16,25 @@ Various Search Options Using CDS - Fiori
 
 
 
-<img width="1883" height="344" alt="image7" src="https://github.com/user-attachments/assets/c8e4d5bf-e0e2-4f68-8d3e-eacb835bcc18" />
+<img width="1883" height="344" alt="image7" src="https://github.com/user-attachments/assets/c8e4d5bf-e0e2-4f68-8d3e-eacb835bcc18" /> <br>
+
+
+
+
+
+https://github.com/user-attachments/assets/6d05b933-5580-4e10-a7de-cc8b5eced1ea
+
+
+
+
+
+2. Complex Search - List Page - Value help (F4 help) from Standard value help entity
+   
+
+<img width="1873" height="896" alt="image" src="https://github.com/user-attachments/assets/194165cd-120f-4635-b253-7727c40d0c22" /><br>
+
+
+
+https://github.com/user-attachments/assets/31f8b3da-fd2a-40c6-bb42-b35d15d504c4
 
 
