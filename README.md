@@ -37,4 +37,8 @@ https://github.com/user-attachments/assets/6d05b933-5580-4e10-a7de-cc8b5eced1ea
 
 https://github.com/user-attachments/assets/31f8b3da-fd2a-40c6-bb42-b35d15d504c4
 
+3. Criticality - Set for Statuses 
+
+<img width="1286" height="458" alt="image" src="https://github.com/user-attachments/assets/e8a98edf-3c31-40e6-9e6d-a19b9f85fd6c" />
+
 
